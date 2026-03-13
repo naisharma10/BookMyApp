@@ -1,20 +1,4 @@
-/**
- * Hotel Booking Application - Entry Point
- * This class represents the starting point of the Hotel Booking System.
- * It prints a welcome message and basic application information.
- *
- * @author Naisha
- * @version 1.0
- */
-
-public class UseCase1HotelBookingApp {
-
-    /**
-     * Main method - Entry point of the Java application.
-     * The JVM starts execution from this method.
-     *
-     * @param args command line arguments
-     */
+public class BookMyApp {
     public static void main(String[] args) {
 
         // Print welcome message
